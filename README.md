@@ -47,6 +47,9 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golapdk&layout=compact)](https://github.com/golapdk/github-readme-stats) -->
+![Golap's GitHub stats](https://github-readme-stats.vercel.app/api?username=golapdk&show_icons=true&theme=radical)
+
 
 <!---
 golapdk/golapdk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
